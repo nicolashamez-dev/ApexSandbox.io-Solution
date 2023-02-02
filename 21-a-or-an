@@ -1,0 +1,5 @@
+public String aOrAn(String word) {
+    if (word.StartsWith('a')) {
+        return 'an '+word;
+    }
+}
